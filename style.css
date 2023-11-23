@@ -19,9 +19,6 @@
     flex-direction: column;
     height: 60vh;
     width: 150vh;
-    border: 1px solid black;
-    box-shadow: 5px  solid black;
-    /* padding: 30px; */
     margin: 0 100px;
 }
 h2{
@@ -73,10 +70,10 @@ label{
         flex-direction: column;
         height: 65vh;
         width: 65vh;
-        border: 1px solid black;
+       
         box-shadow: 5px  solid black;
         padding: 30px 5px;
-        /* margin: 0 100px; */
+    
         text-align: center;
     }
     label{
